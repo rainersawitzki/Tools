@@ -1,0 +1,171 @@
+Branch name  in repo org.javacream.training.maven.parent unchanged: 1.4.2024.
+Branch name  in repo org.javacream.training.maven.parent unchanged: master.
+Branch name  in repo org.javacream.training.docker unchanged: 1.7.2019.
+Branch name  in repo org.javacream.training.docker unchanged: 3.2.2020.
+Branch name  in repo org.javacream.training.docker unchanged: 4.10.2023.
+Branch name  in repo org.javacream.training.docker unchanged: 7.3.2022.
+Branch name  in repo org.javacream.training.docker unchanged: 7.12.2022.
+Branch name  in repo org.javacream.training.docker unchanged: 8.2.2024.
+Branch name  in repo org.javacream.training.docker unchanged: 8.5.2020.
+Branch name  in repo org.javacream.training.docker unchanged: 9.6.2021.
+Branch name  in repo org.javacream.training.docker unchanged: 11.2.2019.
+Branch name  in repo org.javacream.training.docker unchanged: 14.6.2021.
+Branch name  in repo org.javacream.training.docker unchanged: 14.11.2018.
+Branch name  in repo org.javacream.training.docker unchanged: 15.11.2021.
+Branch name  in repo org.javacream.training.docker unchanged: 17.9.2018.
+Branch name  in repo org.javacream.training.docker unchanged: 18.7.2018.
+Branch name  in repo org.javacream.training.docker unchanged: 18.10.2023.
+Branch name  in repo org.javacream.training.docker unchanged: 18.11.2020.
+Branch name  in repo org.javacream.training.docker unchanged: 19.5.2021.
+Branch name  in repo org.javacream.training.docker unchanged: 19.7.2021.
+Branch name  in repo org.javacream.training.docker unchanged: 21.3.2022.
+Branch name  in repo org.javacream.training.docker unchanged: 22.7.2019.
+Branch name  in repo org.javacream.training.docker unchanged: 22.8.2022.
+Branch name  in repo org.javacream.training.docker unchanged: 23.9.2019.
+Branch name  in repo org.javacream.training.docker unchanged: 26.9.2022.
+Branch name  in repo org.javacream.training.docker unchanged: 29.3.2021.
+Branch name  in repo org.javacream.training.docker unchanged: 29.10.2018.
+Branch name  in repo org.javacream.training.docker unchanged: 30.9.2019.
+Branch name  in repo org.javacream.training.docker unchanged: 31.3.2020.
+Branch name  in repo org.javacream.training.docker unchanged: init.
+Branch name  in repo org.javacream.training.docker unchanged: integrata.
+Branch name  in repo org.javacream.training.docker unchanged: master.
+Branch name  in repo org.javacream.training.docker unchanged: webinar.
+Branch name  in repo org.javacream.maven.training.bom unchanged: master.
+Branch name  in repo org.javacream.training.application.book unchanged: master.
+Branch name  in repo org.javacream.training.refactoring unchanged: 16.10.2023.
+Branch name  in repo org.javacream.training.refactoring unchanged: 21.11.2019.
+Branch name  in repo org.javacream.training.refactoring unchanged: master.
+Branch name  in repo org.javacream.training.designpatterns unchanged: 18.2.2019.
+Branch name  in repo org.javacream.training.designpatterns unchanged: initial.
+Branch name  in repo org.javacream.training.designpatterns unchanged: master.
+Branch name  in repo org.javacream.training.java.experts unchanged: develop.
+Branch name  in repo org.javacream.training.java.experts unchanged: master.
+Branch name  in repo org.javacream.training.msg unchanged: master.
+Branch name  in repo org.javacream.training.swift unchanged: 2.7.2018.
+Branch name  in repo org.javacream.training.swift unchanged: 10.9.2018.
+Branch name  in repo org.javacream.training.swift unchanged: 19.11.2018.
+Branch name  in repo org.javacream.training.swift unchanged: 30.5.2022.
+Branch name  in repo org.javacream.training.swift unchanged: initial.
+Branch name  in repo org.javacream.training.swift unchanged: master.
+Branch name  in repo org.javacream.training.spring.boot unchanged: master.
+Branch name in repo org.javacream.training.spring.boot changed from nrw_20.12.2018 to 20.12.2018.
+Branch name in repo org.javacream.training.spring changed from 3.3.2022_1 to 1.
+Branch name  in repo org.javacream.training.spring unchanged: 4.1.2022.
+Branch name  in repo org.javacream.training.spring unchanged: 4.6.2019.
+Branch name  in repo org.javacream.training.spring unchanged: 5.10.2020.
+Branch name  in repo org.javacream.training.spring unchanged: 6.12.2021.
+Branch name  in repo org.javacream.training.spring unchanged: 11.5.2022.
+Branch name  in repo org.javacream.training.spring unchanged: 12.11.2020.
+Branch name  in repo org.javacream.training.spring unchanged: 27.6.2022.
+Branch name  in repo org.javacream.training.spring unchanged: 27.10.2021.
+Branch name  in repo org.javacream.training.spring unchanged: DataWork.
+Branch name  in repo org.javacream.training.spring unchanged: coba_27.10.2021_solution.
+Branch name  in repo org.javacream.training.spring unchanged: commerzbank-5.7.2022.
+Branch name  in repo org.javacream.training.spring unchanged: dataaccess.
+Branch name in repo org.javacream.training.spring changed from deutsche_post_3.3.2022 to 3.3.2022.
+Branch name in repo org.javacream.training.spring changed from dwp_28.11.2022 to 28.11.2022.
+Branch name in repo org.javacream.training.spring changed from fincon_16.5.2022 to 16.5.2022.
+Branch name in repo org.javacream.training.spring changed from hdi_31.7.2023 to 31.7.2023.
+Branch name  in repo org.javacream.training.spring unchanged: init_core_rest.
+Branch name in repo org.javacream.training.spring changed from integrata_8.3.3021 to 8.3.3021.
+Branch name in repo org.javacream.training.spring changed from integrata_11.2.2021 to 11.2.2021.
+Branch name in repo org.javacream.training.spring changed from jowat_26.1.2021 to 26.1.2021.
+Branch name in repo org.javacream.training.spring changed from provinzial_8.10.2018 to 8.10.2018.
+Branch name in repo org.javacream.training.spring changed from provinzial_30.7.2018 to 30.7.2018.
+Branch name in repo org.javacream.training.spring changed from sokabau_19.4.2023 to 19.4.2023.
+Branch name  in repo org.javacream.training.spring unchanged: spring_data.
+Branch name  in repo org.javacream.training.spring unchanged: springboot.
+Branch name  in repo org.javacream.training.spring unchanged: springboot-gruppe2.
+Branch name  in repo org.javacream.training.spring unchanged: start.
+Branch name in repo org.javacream.training.spring changed from techem_6.1.2020 to 6.1.2020.
+Branch name in repo org.javacream.training.spring changed from techem_16.3.2020 to 16.3.2020.
+Branch name in repo org.javacream.training.spring changed from techem_25.5.2020 to 25.5.2020.
+Branch name in repo org.javacream.training.jee changed from bka_28.1.2019 to 28.1.2019.
+Branch name in repo org.javacream.training.jee changed from blum_4.10.2021 to 4.10.2021.
+Branch name in repo org.javacream.training.jee changed from blum_11.10.2021 to 11.10.2021.
+Branch name  in repo org.javacream.training.jee unchanged: finish_tomee.
+Branch name  in repo org.javacream.training.jee unchanged: gdv_26.10.2020_tomee.
+Branch name in repo org.javacream.training.jee changed from gdv_26.10.2020 to 26.10.2020.
+Branch name  in repo org.javacream.training.jee unchanged: initial.
+Branch name in repo org.javacream.training.jee changed from ivv_25.11.2019 to 25.11.2019.
+Branch name  in repo org.javacream.training.jee unchanged: master.
+Branch name in repo org.javacream.training.jee changed from nrwbank_10.12.2018 to 10.12.2018.
+Branch name  in repo org.javacream.training.jee unchanged: start.
+Branch name in repo org.javacream.training.jee changed from telekom_10.3.2022 to 10.3.2022.
+Branch name  in repo org.javacream.training.apache.activemq unchanged: artemis.fnt.3.11.2019.
+Branch name in repo org.javacream.training.apache.activemq changed from dfs_28.2.2019 to 28.2.2019.
+Branch name in repo org.javacream.training.apache.activemq changed from eurogate_14.2.2019 to 14.2.2019.
+Branch name  in repo org.javacream.training.apache.activemq unchanged: initial.
+Branch name in repo org.javacream.training.apache.activemq changed from integrata_15.7.2020 to 15.7.2020.
+Branch name  in repo org.javacream.training.apache.activemq unchanged: master.
+Branch name in repo org.javacream.training.jvm changed from dz-privatbank_12.10.2023 to 12.10.2023.
+Branch name in repo org.javacream.training.jvm changed from integrata_8.3.2023 to 8.3.2023.
+Branch name  in repo org.javacream.training.jvm unchanged: master.
+Branch name in repo org.javacream.training.groovy changed from bitbw_16.3.2018 to 16.3.2018.
+Branch name in repo org.javacream.training.groovy changed from consorsfinanz_24.1.2022 to 24.1.2022.
+Branch name  in repo org.javacream.training.groovy unchanged: master.
+Branch name  in repo org.javacream.training.rest unchanged: initial.
+Branch name  in repo org.javacream.training.rest unchanged: master.
+Branch name  in repo org.javacream.training.rest unchanged: miele.13.12.2018.
+Branch name in repo org.javacream.training.batch changed from finanzinformatik_29.8.2018 to 29.8.2018.
+Branch name in repo org.javacream.training.batch changed from fincon_9.6.2022 to 9.6.2022.
+Branch name in repo org.javacream.training.batch changed from generali_12.9.2019 to 12.9.2019.
+Branch name in repo org.javacream.training.batch changed from generali_25.8.2022 to 25.8.2022.
+Branch name  in repo org.javacream.training.batch unchanged: initial.
+Branch name in repo org.javacream.training.batch changed from integrata_18.7.2022 to 18.7.2022.
+Branch name in repo org.javacream.training.batch changed from integrata_22.8.2019 to 22.8.2019.
+Branch name in repo org.javacream.training.batch changed from integrata_29.11.2021 to 29.11.2021.
+Branch name  in repo org.javacream.training.batch unchanged: master.
+Branch name  in repo org.javacream.training.batch unchanged: reference.
+Branch name  in repo org.javacream.training.batch unchanged: spring-batch-4.x.
+Branch name  in repo org.javacream.training.batch unchanged: start.
+Branch name  in repo org.javacream.training.batch unchanged: work.
+Branch name  in repo org.javacream.training.batch unchanged: work2.
+Branch name  in repo org.javacream.javascript.tools unchanged: master.
+Branch name  in repo org.javacream.training.typescript unchanged: funke-digital.
+Branch name in repo org.javacream.training.typescript changed from jungheinrich_23.1.2023 to 23.1.2023.
+Branch name  in repo org.javacream.training.typescript unchanged: landeswohlfahrtsverband.
+Branch name  in repo org.javacream.training.typescript unchanged: master.
+Branch name in repo org.javacream.training.typescript changed from metro_26.4.2018 to 26.4.2018.
+Branch name  in repo org.javacream.training.java9 unchanged: develop.
+Branch name  in repo org.javacream.training.java9 unchanged: initial.
+Branch name  in repo org.javacream.training.java9 unchanged: master.
+Branch name  in repo org.javacream.training.java8 unchanged: master.
+Branch name in repo org.javacream.training.java8 changed from vw_groupservices_21.1.2019 to 21.1.2019.
+Branch name in repo org.javacream.training.apache.camel changed from bg_verkehr_14.11.2022 to 14.11.2022.
+Branch name  in repo org.javacream.training.apache.camel unchanged: dependabot/maven/org.javacream.training.apache.camel/camel.version-3.0.0.
+Branch name  in repo org.javacream.training.apache.camel unchanged: develop.
+Branch name  in repo org.javacream.training.apache.camel unchanged: initial.
+Branch name in repo org.javacream.training.apache.camel changed from integrata_20.8.2018 to 20.8.2018.
+Branch name  in repo org.javacream.training.apache.camel unchanged: master.
+Branch name in repo org.javacream.training.apache.camel changed from training_25.1.2018 to 25.1.2018.
+Branch name in repo org.javacream.training.apache.camel changed from training_30.11.2017 to 30.11.2017.
+Branch name in repo org.javacream.training.apache.camel changed from webinar_telekom_18.5.2020 to 18.5.2020.
+Branch name  in repo org.javacream.training.angular unchanged: ARBURG.
+Branch name in repo org.javacream.training.angular changed from advanced_landesamt_16.9.2020 to 16.9.2020.
+Branch name in repo org.javacream.training.angular changed from advanced_landesamt_29.11.2020 to 29.11.2020.
+Branch name in repo org.javacream.training.angular changed from advanced_telekom_29.9.2020 to 29.9.2020.
+Branch name  in repo org.javacream.training.angular unchanged: angular_advanced_initial.
+Branch name in repo org.javacream.training.angular changed from arburg_11.1.2021 to 11.1.2021.
+Branch name in repo org.javacream.training.angular changed from datagroup_1.2.2021 to 1.2.2021.
+Branch name in repo org.javacream.training.angular changed from dekra_4.2.2019 to 4.2.2019.
+Branch name  in repo org.javacream.training.angular unchanged: dependabot/npm_and_yarn/handlebars-4.7.6.
+Branch name  in repo org.javacream.training.angular unchanged: dependabot/npm_and_yarn/http-proxy-1.18.1.
+Branch name  in repo org.javacream.training.angular unchanged: dependabot/npm_and_yarn/tree-kill-1.2.2.
+Branch name  in repo org.javacream.training.angular unchanged: dependabot/npm_and_yarn/webpack-subresource-integrity-1.5.2.
+Branch name in repo org.javacream.training.angular changed from dwp_21.6.2023 to 21.6.2023.
+Branch name in repo org.javacream.training.angular changed from dwp_22.1.2024 to 22.1.2024.
+Branch name  in repo org.javacream.training.angular unchanged: initial.
+Branch name in repo org.javacream.training.angular changed from integrata_15.2.2023 to 15.2.2023.
+Branch name in repo org.javacream.training.angular changed from integrata_17.2.2021 to 17.2.2021.
+Branch name in repo org.javacream.training.angular changed from landesamt_5.8.2020 to 5.8.2020.
+Branch name in repo org.javacream.training.angular changed from landesamt_27.7.2020 to 27.7.2020.
+Branch name  in repo org.javacream.training.angular unchanged: landeswohlfahrtsverband.
+Branch name  in repo org.javacream.training.angular unchanged: lbank_work.
+Branch name in repo org.javacream.training.angular changed from lbank_19.7.2022 to 19.7.2022.
+Branch name in repo org.javacream.training.angular changed from lbank_20.7.2022 to 20.7.2022.
+Branch name  in repo org.javacream.training.angular unchanged: master.
+Branch name in repo org.javacream.training.angular changed from metro_18.5.2018 to 18.5.2018.
+Branch name  in repo org.javacream.training.angular unchanged: reference.
+Branch name  in repo org.javacream.training.angular unchanged: start.
